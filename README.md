@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fulcrum101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?fulcrum101=anuraghazra&show_icons=true&theme=radical)  
 
 <br/>  
 
