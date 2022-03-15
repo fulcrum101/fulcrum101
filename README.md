@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" title="my_banner">
+</div>
+
 ### <div align="center">Hi! I am Veronika. </div>  
   
 
