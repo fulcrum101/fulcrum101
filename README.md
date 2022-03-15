@@ -13,10 +13,6 @@
 
 - 💃Many deep learning projects ahead.  
   
-
-![]()  
-  
-
 <br/>  
 
 
@@ -80,7 +76,7 @@
 
 
 ## Github Stats  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?fulcrum101=anuraghazra&show_icons=true&theme=radical)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fulcrum101&count_private=true&show_icons=true&theme=nightowl)  
 
 <br/>  
 
