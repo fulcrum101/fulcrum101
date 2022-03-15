@@ -5,13 +5,13 @@
 ### <div align="center">Hi! I am Veronika. </div>  
   
 
--  📔Currently studying in high school.  
+-  📔Currently studying in high school
   
 
 - 💻Meanwhile learning AI  
   
 
-- 💃Many deep learning projects ahead.  
+- 💃Many great deep learning projects ahead
   
 <br/>  
 
