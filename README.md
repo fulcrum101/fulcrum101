@@ -30,7 +30,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -54,6 +53,10 @@
 
 <br/>  
 
+## My certificates
+<div align="center">  
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49745997" alt="TensorFlow Developer Certificate" />  
+</div>
 
 ## Connect with me  
 <div align="center">
