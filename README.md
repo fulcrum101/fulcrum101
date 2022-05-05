@@ -58,6 +58,11 @@
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49745997" alt="TensorFlow Developer Certificate" />  
 </div>
 
+<div align="center">  
+<img src="
+image_2022-05-05_163322701.png" alt="TensorFlow Developer Certificate in 2022: Zero to Mastery" />  
+</div>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/fulcrum101" target="_blank">
