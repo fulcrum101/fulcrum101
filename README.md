@@ -59,8 +59,7 @@
 </div>
 
 <div align="center">  
-<img src="
-image_2022-05-05_163322701.png" alt="TensorFlow Developer Certificate in 2022: Zero to Mastery" />  
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-bc5c3211-f9e0-49f2-b5e7-177a4ea04dd4.jpg?v=1651761018000" alt="TensorFlow Developer Certificate in 2022: Zero to Mastery" />  
 </div>
 
 ## Connect with me  
