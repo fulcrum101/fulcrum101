@@ -55,14 +55,14 @@
 
 ## My certificates
 <div align="center">  
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49745997" alt="TensorFlow Developer Certificate" />  
+<img width="100%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49745997" alt="TensorFlow Developer Certificate" />  
 </div>
 
 <div align="center">  
 <img width="100%" src="fcc_certificate.jpg" alt="FreeCodeCamp Machine Learning with Python" />  
 
 <div align="center">  
-<img width="60%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-bc5c3211-f9e0-49f2-b5e7-177a4ea04dd4.jpg?v=1651761018000" alt="TensorFlow Developer Certificate in 2022: Zero to Mastery" />  
+<img width="100%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-bc5c3211-f9e0-49f2-b5e7-177a4ea04dd4.jpg?v=1651761018000" alt="TensorFlow Developer Certificate in 2022: Zero to Mastery" />  
 </div>
 
 ## Connect with me  
