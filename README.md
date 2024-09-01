@@ -4,18 +4,11 @@
 
 ### <div align="center">Hi! I am Veronika. </div>  
   
-
--  📔Currently studying in high school
-  
-
-- 💻Meanwhile learning AI  
-  
-
-- 💃Many great deep learning projects ahead
+I am a fan of mathematics and AI/ML and a beginner in cybersecurity! 
   
 <br/>  
 
-
+<!---
 ## My skill set  
 <table><tr><td valign="top" width="33%">
 
@@ -51,7 +44,7 @@
 </td></tr></table>  
 
 <br/>  
-
+--->
 ## My certificates
 <div align="center">  
 <img width="100%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56235427" alt="TensorFlow Developer Certificate" />  
@@ -100,11 +93,3 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/hellofulcrum" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
