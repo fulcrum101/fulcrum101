@@ -1,3 +1,4 @@
+<!---
 <div align="center">
   <img src="banner.jpg" title="my_banner">
 </div>
@@ -74,7 +75,7 @@
   
 
 <br/>  
---->
+
 
 ## Github Stats  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fulcrum101&count_private=true&show_icons=true&theme=nightowl)  
@@ -91,4 +92,7 @@
   
 
 <br/>  
+--->
 
+Hi! I am Veronika.
+Welcome to my GitHub, although you probably will not find anything interesting here.
