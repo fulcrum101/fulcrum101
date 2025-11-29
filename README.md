@@ -4,7 +4,6 @@
 
 ### <div align="center">Hi! I am Veronika. </div>  
   
-I am a fan of mathematics and AI/ML and a beginner in cybersecurity! 
   
 <br/>  
 
@@ -44,7 +43,7 @@ I am a fan of mathematics and AI/ML and a beginner in cybersecurity!
 </td></tr></table>  
 
 <br/>  
---->
+
 ## My certificates
 <div align="center">  
 <img width="100%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56235427" alt="TensorFlow Developer Certificate" />  
@@ -75,7 +74,7 @@ I am a fan of mathematics and AI/ML and a beginner in cybersecurity!
   
 
 <br/>  
-
+--->
 
 ## Github Stats  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fulcrum101&count_private=true&show_icons=true&theme=nightowl)  
